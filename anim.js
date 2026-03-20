@@ -4,9 +4,9 @@ var lyrics = document.querySelector("#lyrics");
 
 // Array de objetos que contiene cada línea y su tiempo de aparición en segundos
 var lyricsData = [
-  { text: "Logro entender", time: 16 },
-  { text: "Que yo siempre he sido tuyo, no hay relevos", time: 19 },
-  { text: "Debes saber", time: 25 },
+  { text: "Logro entender", time: 15 },
+  { text: "Que yo siempre he sido tuyo, no hay relevos", time: 18 },
+  { text: "Debes saber", time: 24 },
   { text: "Que presté mi cuerpo a extrañas, no lo niego", time: 32 },
   { text: "Tal vez, me alimentaba el ego y fue mi error", time: 38 },
   { text: "No sé, en pocas palabras desubicación", time: 46 },
